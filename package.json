@@ -1,0 +1,29 @@
+{
+  "name": "e-incense",
+  "version": "1.0.0",
+  "description": "一个环保又庄重的 **电子烧香网页**，让大家在云端供奉神明、寄托心愿。  \r 不再需要纸钱和香火，减少污染，同时保持敬意。",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccjjxx99/e-incense.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ccjjxx99/e-incense/issues"
+  },
+  "homepage": "https://github.com/ccjjxx99/e-incense#readme",
+  "dependencies": {
+    "@vitejs/plugin-vue": "^6.0.1",
+    "vite": "^7.1.5",
+    "vue": "^3.5.21"
+  }
+}
